@@ -1,0 +1,29 @@
+Names,Team,Wining Rate,Section,Position,PPG,CPPG,RPG,CRPG,APG,CAPG,BPG,CBPG,image
+Kyrie Irving,Boston Celtics,0.675,East,G,24.4,22,3.8,3.4,5.1,5.5,0.3,0.3,kyrie.png
+DeMar DeRozan,Toronto Raptors,0.725,East,G,32.1,19.7,3.9,4.1,5.2,3.1,0.3,0.3,demar.png
+LeBron James,Cleveland Cavaliers,0.613,East,F,27.7,27.2,8.7,7.4,9.2,7.2,0.9,0.8,lebron.png
+Joel Embiid,Philadelphia 76ers,0.625,East,C,22.9,22,11,9.9,3.2,2.8,1.8,2,joel.png
+Giannis Antetokounmpo,Milwaukee Bucks,0.538,East,F,27.1,17.2,10,7.5,4.8,3.8,1.4,1.3,giannis.png
+Bradley Beal,Washington Wizards,0.525,East,G,22.8,18.7,4.4,3.7,4.6,3.4,0.4,0.3,bradley.png
+Goran Dragic,Miami Heat,0.538,East,G,17.3,13.7,4.1,3.1,4.8,4.8,0.2,0.2,goran.png
+Al Horford,Boston Celtics,0.675,East,C,12.9,14.2,7.3,8.5,4.7,3.2,1.1,1.2,al.png
+Kevin Love,Cleveland Cavaliers,0.613,East,F,17.6,18.3,9.3,11.3,1.7,2.3,0.4,0.5,love.png
+Kyle Lowry,Toronto Raptors,0.725,East,G,16.1,14.4,5.5,4.2,6.9,5.9,0.2,0.3,kyle.png
+Victor Oladipo,Indiana Pacers,0.593,East,G,23.1,17.4,5.2,4.5,4.3,3.8,0.8,0.5,victor.png
+Kristaps Porzingis,New York Knicks,0.350,East,F,22.7,17.8,6.6,7.1,1.2,1.3,2.4,2,Kristaps.png
+John Wall,Washington Wizards,0.525,East,G,19.2,18.9,3.6,4.4,9.5,9.2,1,0.7,john.png
+Andre Drummond,Detroit Pistons,0.475,East,C,15,13.6,16,13.4,3,1.1,1.6,1.5,andre.png
+Kemba Walker,Charlotte Hornets,0.432,East,G,22.2,19,3.1,3.7,5.6,5.4,0.3,0.4,kemba.png
+Stephen Curry,Golden State Warriors,0.716,West,G,26.4,23.1,5.1,4.4,6.1,6.8,0.2,0.2,stephen.png
+James Harden,Houston Rockets,0.800,West,G,30.6,23,5.4,5.1,8.7,6,0.7,0.5,james.png
+Kevin Durant,Golden State Warriors,0.716,West,F,26.6,27.1,6.9,7.1,5.4,3.9,1.8,1.1,durant.png
+DeMarcus Cousins,New Orleans Pelicans,0.575,West,C,25.2,21.5,12.9,11,5.4,3.2,1.6,1.2,demarcus.png
+Anthony Davis,New Orleans Pelicans,0.575,West,F,28.2,23.4,11,10.3,2.3,1.9,2.6,2.4,Anthony.png
+Russell Westbrook,Oklahoma City Thunder,0.575,West,G,25.6,23,9.9,6.6,10.1,8.2,0.2,0.3,russel.png
+Damian Lillard,Portland Trail Blazers,0.600,West,G,26.8,23.1,4.5,4.1,6.5,6.2,0.4,0.3,damian.png
+Draymond Green,Golden State Warriors,0.716,West,F,11.1,9.3,7.7,6.9,7.3,4.6,1.3,1.1,draymond.png
+Karl-Anthony Towns,Minnesota Timberwolves,0.563,West,C,21.2,21.6,12.3,11.7,2.4,2.4,1.4,1.4,towns.png
+LaMarcus Aldridge,San Antonio Spurs,0.575,West,F,23.3,19.4,8.5,8.3,2.1,1.9,1.2,1.1,LaMarcus.png
+Klay Thompson,Golden State Warriors,0.716,West,G,20,19.2,3.8,3.4,2.6,2.3,0.5,0.5,klay.png
+Jimmy Butler,Minnesota Timberwolves,0.563,West,G,22,16.4,5.3,4.9,4.9,3.4,0.4,0.4,jimmy.png
+Paul George,Oklahoma City Thunder,0.575,West,F,21.7,18.6,5.7,6.2,3.3,3.2,0.5,0.4,paul.png
